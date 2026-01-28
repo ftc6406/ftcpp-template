@@ -1,6 +1,6 @@
 # Code Source
-([FTCpp](https://github.com/flemmii/FTCpp))
-([Official FTC SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotController))
+- [FTCpp](https://github.com/flemmii/FTCpp)
+- [Official FTC SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
 
 # What is this?
 
